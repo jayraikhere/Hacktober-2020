@@ -5,7 +5,8 @@ So happy christmas.
 =======
 
 Hacktober Fest provides a very good motivation to developers
-beacause of tshirt
+And provide knowledge about pull request 
+beacause of tshirt.
 Nice Repository to contribute for hacktober fest
 
 
